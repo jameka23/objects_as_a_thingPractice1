@@ -7,8 +7,8 @@ Create an object that represents your pet.
 4. Age property with an integer value
 */
 const pet = {
-    name = "Chico",
-    species = "dog",
-    nicknames = ["Cheeks", "Buddy", "Bud"],
-    age = 15
+    name: "Chico",
+    species: "dog",
+    nicknames: ["Cheeks", "Buddy", "Bud"],
+    age: 15
 };
